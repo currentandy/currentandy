@@ -13,8 +13,7 @@ EE sophomore.
 I like learning how things work and building them myself.
 I'm especially interested in power electronics and IC design, but I also like exploring problems at the intersection of circuits and unconventional applications.
 
-
-[optional: personal interests line here — hobbies, what you do outside of EE]
+Outside of my studies, I read and collect japanese visual novels, play piano, do photography, and draw.
 
 ---
 **Currently building**
