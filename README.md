@@ -5,23 +5,24 @@
 
 -->
 
-### Electrical Engineering
+# Research Portfolio
 `Embedded Systems` `Analog IC Design` `PCB/Circuit Design` `Power Electronics` `Neuromorphic Systems`
 
-EE sophomore.
+Electrical engineering student developing experience in analog circuit design, power integrity, and mixed-signal systems through independent research and hands-on hardware development.
 
-I like learning how things work and building them myself.
-I'm especially interested in power electronics and IC design, but I also like exploring problems at the intersection of circuits and unconventional applications.
+My work focuses on building and characterizing electrical systems through circuit modeling, custom hardware design, measurement, and computational analysis, with the goal of developing a foundation toward analog integrated circuit (IC) design.
 
-Outside of my studies, I read and collect japanese visual novels, play piano, do photography, and draw.
+Outside of engineering, I enjoy collecting Japanese visual novels, playing piano, photography, and drawing
 
 ---
+
 **Currently building**
-- 🔧 **Power Integrity & Noise Analysis Tester** — 4-layer PCB power measurement system with STM32 firmware (1 MSPS ADC, UART streaming) and a Python analysis pipeline exploring topological data analysis (TDA) for power supply noise characterization
-- 🔧 **Topological Analysis of Neural Circuit Constraints** — graph-theoretic framework evaluating whether analog neuromorphic circuits preserve the structure of biological neural connectivity, using Brian2 simulations and SPICE-equivalent circuit mappings
-  
+- 🔧 **Power Integrity & Noise Analysis Tester** — 4-layer PCB-based power measurement platform with STM32 firmware (1 MSPS ADC, UART streaming) and Python signal analysis pipeline for sub-mV ripple characterization and TDA-based noise analysis
+- 🔧 **Topological Analysis of Neural Circuit Constraints** — graph-theoretic framework evaluating whether analog neuromorphic circuits preserve biological neural connectivity structures using Brian2 simulations, SPICE-equivalent circuit models, and topological analysis
+
+
 **Experience**
-- Bench Test Intern @ Nel Hydrogen — electrical characterization of PEM electrolyzer cells under high-current DC loading (I-V polarization, EIS/PEIS/GEIS), durability testing, and MEA fabrication
+- Bench Test Intern @ Nel Hydrogen — electrical and electrochemical characterization of PEM electrolyzer cells under high-current-density operation(I-V polarization, EIS/PEIS/GEIS), durability testing, and MEA fabrication
 
 
-📫 [add LinkedIn/email/portfolio link if you want]
+📫 [add LinkedIn/email/portfolio link TBA]
