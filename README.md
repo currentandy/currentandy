@@ -18,7 +18,9 @@ Outside of engineering, I enjoy collecting Japanese visual novels, playing piano
 
 **Currently building**
 - 🔧 **Power Integrity & Noise Analysis Tester** — 4-layer PCB-based power measurement platform with STM32 firmware (1 MSPS ADC, UART streaming) and Python signal analysis pipeline for sub-mV ripple characterization and TDA-based noise analysis
+- 🔧 **CMOS Analog Building Block Design & Characterization** — transistor-level analog circuit design studies exploring MOSFET characterization, current mirrors, differential amplifier stages, and CMOS op-amp architectures using LTspice simulation and performance analysis
 - 🔧 **Topological Analysis of Neural Circuit Constraints** — graph-theoretic framework evaluating whether analog neuromorphic circuits preserve biological neural connectivity structures using Brian2 simulations, SPICE-equivalent circuit models, and topological analysis
+
 
 
 **Experience**
